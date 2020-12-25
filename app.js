@@ -40,7 +40,7 @@ button[0].addEventListener("click",(e) => {
 
 button[1].addEventListener("click",(e) => {
   if(correct === e.target.textContent){
-    window.alert("正解！");
+    window.alert("正解!!！");
   } else {
     window.alert("不正解！");
   }
